@@ -1,3 +1,7 @@
 Esto es una prueba 
 
+<<<<<<< HEAD
 Esta linea es la que vale!!! jaja
+=======
+Esto es otra prueba! jejeje
+>>>>>>> 2ff30bf9aee37d7c8421003dcf9c914ecbe64901
